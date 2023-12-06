@@ -30492,8 +30492,8 @@ case 3:return 0
 case 1:return c.c=o,3}}}},
 C8(a,b,c,d){var s=0,r=A.x(t.CZ),q,p,o,n
 var $async$C8=A.y(function(e,f){if(e===1)return A.u(f,r)
-while(true)switch(s){case 0:o="Pghgmqs36OOX90jjr"
-n="X3ntFMdI6AEKCMbFo5xIh"
+while(true)switch(s){case 0:o="LfXkIsqt4LWolFn4r"
+n="7gDzIXF7KxE2z3Grkd3Dn"
 if(o.length===0)A.U("The public key is required. Visit https://dashboard.emailjs.com/admin/account")
 if(a.length===0)A.U("The service ID is required. Visit https://dashboard.emailjs.com/admin")
 if(b.length===0)A.U("The template ID is required. Visit https://dashboard.emailjs.com/admin/templates")
@@ -91726,7 +91726,7 @@ gDb(){return"This mail is not valid"},
 gBk(){return"Add your mail"},
 gwW(){return"Frequent asked questions"},
 ga11(){return"What is edhomy?"},
-gXT(){return"Edhomy is a social network where you can find educational content created by professors and institutions. You can enroll to the professor's content and learn with educational activities, join video conferences, watch educational videos or make new friends."},
+gXT(){return"Edhomy is a social network where you can find educative content created by professors and institutions. You can enroll to the professor's content and learn with activities, join to video meetings, watch educative videos or make new friends."},
 gWw(){return"Can I earn money in the app?"},
 ga_D(){return"Yes, you can create a professor or institution account, then we check if your degree is legal and you can start promoting your content to get new students enrolled. If you do not have a degree you can only earn tips."},
 gZC(){return"Is this social network secure?"},
@@ -98987,7 +98987,7 @@ s=p}while(true)switch(s){case 0:if(n.c==null){s=1
 break}n.X(new A.aAJ(n))
 p=4
 s=7
-return A.z(A.C8("service_ajw05ps","template_i2bw79g",A.a4(["user_name",a,"user_email",b,"user_subject",c,"user_message",d],t.N,t.z),B.l7),$async$hY)
+return A.z(A.C8("service_pvprb1i","template_e2c5d13",A.a4(["user_name",a,"user_email",b,"user_subject",c,"user_message",d],t.N,t.z),B.l7),$async$hY)
 case 7:m=n.c
 m.toString
 A.eA(m,A.G(m,B.f,t.J).gEm(),B.m2,B.mQ,5,!0)
@@ -99067,7 +99067,7 @@ s=p}while(true)switch(s){case 0:if(n.c==null){s=1
 break}n.X(new A.aAP(n))
 p=4
 s=7
-return A.z(A.C8("service_ajw05ps","template_i2bw79g",A.a4(["user_name",a,"user_email",b,"user_subject",c,"user_message",d],t.N,t.z),B.l7),$async$hY)
+return A.z(A.C8("service_pvprb1i","template_e2c5d13",A.a4(["user_name",a,"user_email",b,"user_subject",c,"user_message",d],t.N,t.z),B.l7),$async$hY)
 case 7:m=n.c
 m.toString
 A.eA(m,A.G(m,B.f,t.J).gEm(),B.m2,B.mQ,5,!0)
@@ -99148,7 +99148,7 @@ s=p}while(true)switch(s){case 0:if(n.c==null){s=1
 break}n.X(new A.aAW(n))
 p=4
 s=7
-return A.z(A.C8("service_ajw05ps","template_i2bw79g",A.a4(["user_name",a,"user_email",b,"user_subject",c,"user_message",d],t.N,t.z),B.l7),$async$hY)
+return A.z(A.C8("service_pvprb1i","template_e2c5d13",A.a4(["user_name",a,"user_email",b,"user_subject",c,"user_message",d],t.N,t.z),B.l7),$async$hY)
 case 7:m=n.c
 m.toString
 A.eA(m,A.G(m,B.f,t.J).gEm(),B.m2,B.mQ,5,!0)
