@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Social Network for educative content's creator and followers.",
+    "description": "Social Network for educative content creators and followers",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
