@@ -37,14 +37,8 @@
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer=""></script>
   <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
-
-  
-  
   <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8198570325773136" crossorigin="anonymous"></script>
-  
-  
-  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <style id="splash-screen-style">
     html {
       height: 100%
@@ -128,9 +122,14 @@
     }
   </script>
   <script>
-    engineInitializer.initializeEngine(config) = {
-       canvasKitBaseUrl: "./canvaskit/"
-    };
+    onEntrypointLoaded: function(engineInitializer) {
+     let config = {
+    renderer: "canvaskit",
+  };
+  engineInitializer.initializeEngine(config).then(function(appRunner) {
+    appRunner.runApp();
+    });
+  };
   </script>
   <script src="https://meet.jit.si/external_api.js" type="application/javascript"></script>
   <script src="main.dart.js" type="application/javascript"></script>
