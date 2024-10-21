@@ -1,11 +1,11 @@
 {
-    "name": "Edhomy",
-    "short_name": "Edhomy",
+    "name": "website",
+    "short_name": "website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Social Network for educative content creators and followers",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
